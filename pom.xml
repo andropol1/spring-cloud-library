@@ -27,6 +27,7 @@
 		<module>issue-service</module>
         <module>discovery-service</module>
         <module>reader-service</module>
+        <module>timer-starter</module>
     </modules>
 	<scm>
 		<connection/>
